@@ -54,3 +54,4 @@
 1. [Laravel Lazy Filters](https://github.com/AstrotechLabs/laravel-lazy-filters)&nbsp;
 2. [Asaas SDK](https://github.com/AstrotechLabs/asaas-sdk)&nbsp;
 3. [Melhor Envio SDK](https://github.com/AstrotechLabs/melhorenvio-sdk)&nbsp;
+4. [Banco do Brasil SDK](https://github.com/AstrotechLabs/bancobrasil-sdk)
