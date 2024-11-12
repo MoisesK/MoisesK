@@ -46,6 +46,11 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## Studying now 📚:
+### Estudando no momento 📚:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+## Minhas contribuições open-source:
+1. [Laravel Lazy Filters](https://github.com/AstrotechLabs/laravel-lazy-filters)&nbsp;
+2. [Asaas SDK](https://github.com/AstrotechLabs/asaas-sdk)&nbsp;
+3. [Melhor Envio SDK](https://github.com/AstrotechLabs/melhorenvio-sdk)&nbsp;
