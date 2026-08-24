@@ -145,16 +145,19 @@ e decisões técnicas que se traduzem em resultado real para o cliente.
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MoisesK&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&title_color=00D1B2&icon_color=00D1B2" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesK&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=00D1B2" />
+  <img src="https://img.shields.io/github/followers/MoisesK?style=for-the-badge&logo=github&label=Seguidores&color=0F2027&labelColor=0F2027" />
+  <img src="https://img.shields.io/github/stars/MoisesK?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars&color=203A43&labelColor=0F2027" />
+  <img src="https://img.shields.io/badge/Reposit%C3%B3rios-70-2C5364?style=for-the-badge&logo=github&labelColor=0F2027" />
+  <img src="https://img.shields.io/badge/Contribui%C3%A7%C3%B5es%20totais-9.5k%2B-00D1B2?style=for-the-badge&logo=git&logoColor=white&labelColor=0F2027" />
+</div>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MoisesK&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&title_color=00D1B2&icon_color=00D1B2&cache_seconds=7200" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesK&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=00D1B2&cache_seconds=7200" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoisesK&hide_border=true&theme=tokyonight&ring=00D1B2&fire=00D1B2&currStreakLabel=00D1B2" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MoisesK&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
 </div>
 
 ---
