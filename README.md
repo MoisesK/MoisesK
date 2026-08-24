@@ -124,24 +124,6 @@ e decisões técnicas que se traduzem em resultado real para o cliente.
 
 ---
 
-## 📊 Linguagens nos meus repositórios
-
-> Distribuição real medida nos meus 70 repositórios (60 com linguagem principal identificada).
-
-| Linguagem | Repositórios | Participação |
-| :-- | :--: | :-- |
-| **PHP** | 18 | `██████████████░░░░░░░░░░░░░░░░` 30% |
-| **TypeScript** | 17 | `█████████████░░░░░░░░░░░░░░░░░` 28% |
-| **JavaScript** | 12 | `█████████░░░░░░░░░░░░░░░░░░░░░` 20% |
-| **CSS** | 5 | `████░░░░░░░░░░░░░░░░░░░░░░░░░░` 8% |
-| **HTML** | 3 | `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░` 5% |
-| **Blade** | 2 | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` 3% |
-| **Python** | 1 | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` 2% |
-| **Shell** | 1 | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` 2% |
-| **Vue** | 1 | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` 2% |
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
