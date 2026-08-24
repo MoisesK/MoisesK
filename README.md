@@ -152,11 +152,6 @@ e decisões técnicas que se traduzem em resultado real para o cliente.
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MoisesK&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&title_color=00D1B2&icon_color=00D1B2&cache_seconds=7200" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesK&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=00D1B2&cache_seconds=7200" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoisesK&hide_border=true&theme=tokyonight&ring=00D1B2&fire=00D1B2&currStreakLabel=00D1B2" />
 </div>
 
